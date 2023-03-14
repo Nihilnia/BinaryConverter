@@ -7,21 +7,14 @@ Binary Converter is a web application that allows you to convert text inputs to 
 - Convert text inputs to binary.
 - Convert binary inputs to text.
 
-## Installation
+## Getting Started
 
-To use the application, simply navigate to the [Binary Converter website](https://nihilnia.github.io/BinaryConverter).
-
-If you wish to download and run the application locally
-1. Clone the repository: `git clone https://github.com/Nihilnia/BinaryConverter.git`
-2. Navigate to the project directory: `cd BinaryConverter`
-3. Install the dependencies: `npm install`
-4. Start the server: `npm start`
-
-The application will now be running at your localhost.
+To use my Password Generator, simply download or clone the repository and open the `index.html` file in your browser.<br/>
+Alternatively, you can [view the live demo](https://nihilnia.github.io/BinaryConverter) hosted on GitHub Pages.
 
 ## Usage
 
-To convert text to binary, simply type in the text you wish to convert in the input field and click on the "Convert to Binary" button. The binary equivalent of the text will be displayed on the screen.
+To convert text to binary or binary to text,<br/>simply type in the text you wish to convert in the input field and click on the "Convert to Binary" button. The binary equivalent of the text will be displayed on the screen.
 
 To convert binary to text, simply type in the binary code you wish to convert in the input field and click on the "Convert to Text" button. The text equivalent of the binary code will be displayed on the screen.
 
