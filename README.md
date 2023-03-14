@@ -16,7 +16,7 @@ To use the application, simply navigate to the [Binary Converter website](https:
 3. Install the dependencies: `npm install`
 4. Start the server: `npm start`
 
-The application will now be running at http://localhost:3000.
+The application will now be running at https://nihilnia.github.io/BinaryConverter
 
 ## Usage
 
