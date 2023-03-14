@@ -17,7 +17,7 @@ Alternatively, you can [view the live demo](https://nihilnia.github.io/BinaryCon
 To convert text to binary,<br/> simply type in the text you wish to convert in the input field and click on the "Convert to Binary" button.<br/>
 The binary equivalent of the text will be displayed on the screen.
 
-To convert binary to text<br/>, simply type in the binary code you wish to convert in the input field and click on the "Convert to Text" button.<br/>
+To convert binary to text,<br/> simply type in the binary code you wish to convert in the input field and click on the "Convert to Text" button.<br/>
 The text equivalent of the binary code will be displayed on the screen.
 
 ## Contributing
