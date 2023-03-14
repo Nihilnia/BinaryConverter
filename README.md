@@ -1,4 +1,4 @@
-# Binary Converter [![Live on Github Pages](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/liveOnGitHubPages.svg)](nihilnia.github.io/BinaryConverter)
+# Binary Converter [![Live on Github Pages](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/liveOnGitHubPages.svg)](https://nihilnia.github.io/BinaryConverter)
 
 Binary Converter is a web application that allows you to convert text inputs to binary and binary inputs to text.
 
