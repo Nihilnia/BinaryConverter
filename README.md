@@ -11,6 +11,7 @@ Binary Converter is a web application that allows you to convert text inputs to 
 
 To use the application, simply navigate to the [Binary Converter website](https://nihilnia.github.io/BinaryConverter).
 
+If you wish to download and run the application locally
 1. Clone the repository: `git clone https://github.com/Nihilnia/BinaryConverter.git`
 2. Navigate to the project directory: `cd BinaryConverter`
 3. Install the dependencies: `npm install`
